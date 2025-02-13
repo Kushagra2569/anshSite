@@ -10,9 +10,9 @@
         <ul class="menu menu-horizontal px-1">
             <li><a href="/">Home</a></li>
             <li>
-                <details>
+                <details class="relative z-50">
                     <summary>Entries</summary>
-                    <ul class="bg-base-100 rounded-t-none p-2">
+                    <ul class="bg-base-100 rounded-t-none p-2 absolute">
                         <li><a href="/entries/why-should-i-win">Why Should I Win</a></li>
                         <li><a href="/entries/case-studies">Case Studies</a></li>
                         <li><a href="/entries/video-campaign">Video Campaign</a></li>

@@ -1,77 +1,86 @@
 export function load() {
 	return {
-		title: 'AI x PR: Smarter Strategies, Bigger Impact',
-		description:
-			'A comprehensive campaign showcasing how AI can revolutionize PR strategies and enhance campaign effectiveness.',
-		Objective:
-			"Showcase AI's role in streamlining PR efforts, from media monitoring to predictive analytics. Highlight how AI-driven personalization enhances audience targeting and engagement. Demonstrate real-world applications of AI in PR through case studies and expert insights. Position AI not as a replacement but as an enabler for smarter, data-driven PR decisions.",
+		title: "PR 2.0 – The Power You Don't See",
+		description: 'An innovative video campaign showcasing the evolution and impact of modern PR.',
+		Objective: [
+			'The goal of this campaign is to show how PR professionals are adapting to the ever-changing media landscape and how this evolution benefits every sector—from tech to consumer to B2B.',
+			'Reposition PR as a strategic business function that goes beyond media coverage to drive influence, brand trust, and market leadership.'
+		],
 		strategy:
-			'Create a dynamic video + interactive social media series showcasing how AI is transforming PR, featuring real-world scenarios, expert insights, and futuristic storytelling.',
+			'Create a compelling visual narrative through a short-form video campaign, supported by comprehensive earned, paid, and owned media strategies.',
 		Execution: [
 			{
-				title: 'Video Series: "AI in Action: The PR Revolution"',
+				title: 'Video Campaign Structure',
 				points: [
-					'🎥 Episode 1: Media Monitoring 2.0 – How AI detects crises before they explode',
-					'🎥 Episode 2: Predictive PR – Forecasting trends before they go viral',
-					'🎥 Episode 3: AI + Human Creativity – The perfect storytelling duo',
-					'🎥 Episode 4: Different AI tools – Dos and Donts',
-					'Each episode features case studies, expert takes, and engaging motion graphics'
+					'🔹 Format: Short-Form Video (90 seconds)',
+					'🔹 Style: Fast-paced, cinematic storytelling with dynamic visuals and strong voiceover',
+					'🔹 Platforms: Social Media (YouTube, LinkedIn, Instagram Reels) and PR Community Forums (PRCAI, Reputation Today)'
 				]
 			},
 			{
-				title: 'Social Media Challenge: "AI or PR Pro?" 🤔',
+				title: 'Video Content Breakdown',
 				points: [
-					'Users see PR tasks (e.g., writing a pitch, crisis response, media targeting)',
-					'They guess: "AI-generated or PR Pro?"',
-					'Ends with: "AI enhances PR. It doesn\'t replace it." #AIMeetsPR'
+					'🎞️ Opening Scene: The PR Myth vs. Reality - Challenging traditional PR perceptions',
+					'🔍 Act 1: The Invisible Power of PR - Showcasing crisis management and strategic influence',
+					'🔥 Act 2: The Shifting Media Terrain - Illustrating the evolving digital landscape',
+					'Act 3: PR 2.0 – Strategic, Proactive, Future-Focused - Demonstrating modern PR capabilities',
+					"Closing: The PR Pros of Tomorrow - Emphasizing PR's role in business strategy"
 				]
 			},
 			{
-				title: 'AI-Powered PR Toolkit (Lead Magnet)',
+				title: 'Campaign Amplification',
 				points: [
-					'📢 Media Monitoring & Sentiment Analysis: Meltwater, Talkwalker',
-					'🎯 Media Targeting & Outreach: Prowly, Anewstip',
-					'📢 AI-Powered Content Creation: Persado, GrammarlyGO',
-					'📊 Predictive Analytics: Signal AI, Brandwatch, Zignal Labs',
-					'📅 PR Workflow Automation: Notion AI, Zapier, Otter.ai'
+					'Earned Media: Strategic media interactions, exclusive interviews, and roundtables',
+					'Thought Leadership: Multi-part byline series across top-tier publications',
+					'Podcasts and Webinars: Industry expert discussions on PR evolution',
+					'Paid Media: Targeted advertising across LinkedIn, Instagram, and Twitter/X',
+					'Owned Media: Blog series, PR insights hub, and social media community'
 				]
 			}
 		],
 		Role: {
 			title: 'Campaign Strategy & Implementation',
-			description: `As the lead strategist for this campaign, I developed a comprehensive approach to demonstrate AI's transformative potential in PR while maintaining the human element. The campaign required careful balance between technical expertise and practical application.
+			description: `As the strategist behind this campaign, I developed a comprehensive approach to showcase PR's evolution through compelling visual storytelling. The campaign required careful planning of the video narrative, coordination with production teams, and development of supporting content strategies.
 
-				Key Responsibilities:
-				- Conceptualized and developed the video series structure
-				- Created the interactive social media challenge format
-				- Curated the AI-Powered PR Toolkit
-				- Coordinated with AI experts and PR professionals for insights
-				- Managed the multi-channel campaign execution`
+				My role included:
+				- Conceptualizing the video narrative and key messaging
+				- Coordinating with creative teams for video production
+				- Developing the multi-channel amplification strategy
+				- Managing media relations and thought leadership initiatives
+				- Overseeing social media content and community engagement`
 		},
 		Impact: [
 			{
-				title: 'Campaign Reach',
+				title: 'Media Coverage & Engagement',
 				quote: {
-					text: 'The video series garnered over 100,000 views across platforms, with the social media challenge generating significant engagement and user-generated content.',
-					author: 'Campaign Analytics'
+					text: 'The campaign generated significant industry buzz, with coverage in major PR and marketing publications. The video received over 100,000 views across platforms within the first month.',
+					author: 'Campaign Performance Metrics'
 				}
 			},
 			{
-				title: 'Industry Impact',
+				title: 'Industry Recognition',
 				quote: {
-					text: 'The AI-Powered PR Toolkit became a go-to resource for PR professionals, with over 5,000 downloads in the first month.',
-					author: 'Resource Metrics'
+					text: 'The campaign successfully repositioned PR as a strategic business function, evidenced by increased engagement from C-suite executives and business leaders.',
+					author: 'Strategic Impact Assessment'
+				}
+			},
+			{
+				title: 'Community Building',
+				quote: {
+					text: "The #PR2Point0 hashtag created a vibrant community of PR professionals sharing insights and experiences, extending the campaign's impact beyond its initial run.",
+					author: 'Social Media Impact'
 				}
 			}
 		],
 		sustainingMomentum: [
 			{
-				title: 'Campaign Amplification',
+				title: 'Ongoing Initiatives',
 				points: [
-					'Earned Media: Thought leadership articles, expert panels, and podcast appearances',
-					'Paid Media: LinkedIn sponsored posts, programmatic advertising, and influencer collaborations',
-					'Owned Media: Dedicated landing page, email marketing, and resources hub',
-					'Award Submissions: Nominations for industry innovation awards'
+					'Monthly "PR Innovation" webinar series',
+					'Live LinkedIn & Twitter/X chats',
+					'User-generated content through #PR2Point0',
+					'PR in Pop Culture feature stories',
+					'Active community engagement and discussion'
 				]
 			}
 		]
