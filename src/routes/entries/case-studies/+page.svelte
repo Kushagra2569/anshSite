@@ -4,6 +4,7 @@
     import { slide } from 'svelte/transition';
     import { cubicOut } from 'svelte/easing';
     import Card from '$lib/components/Card.svelte';
+    import ansh2 from '$lib/assets/ansh2.jpeg';
     
     export let data;
     let expandedCard = null;
