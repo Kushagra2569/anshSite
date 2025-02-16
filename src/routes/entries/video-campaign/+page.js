@@ -3,38 +3,51 @@ export function load() {
 		title: "PR 2.0 – The Power You Don't See",
 		description: 'An innovative video campaign showcasing the evolution and impact of modern PR.',
 		Objective: [
-			'The goal of this campaign is to show how PR professionals are adapting to the ever-changing media landscape and how this evolution benefits every sector—from tech to consumer to B2B.',
-			'Reposition PR as a strategic business function that goes beyond media coverage to drive influence, brand trust, and market leadership.'
+			'🔹 Format: Short-Form Video (90 seconds)',
+			'🔹 Style: Fast-paced, cinematic storytelling with dynamic visuals and a strong voiceover.',
+			'🔹 Platforms: Social Media: YouTube, LinkedIn, Instagram Reels; PR Community Forums: PRCAI, Reputation Today'
 		],
-		strategy:
-			'Create a compelling visual narrative through a short-form video campaign, supported by comprehensive earned, paid, and owned media strategies.',
 		Execution: [
 			{
-				title: 'Video Campaign Structure',
+				title: '🎞️ Opening Scene: The PR Myth vs. Reality',
 				points: [
-					'🔹 Format: Short-Form Video (90 seconds)',
-					'🔹 Style: Fast-paced, cinematic storytelling with dynamic visuals and strong voiceover',
-					'🔹 Platforms: Social Media (YouTube, LinkedIn, Instagram Reels) and PR Community Forums (PRCAI, Reputation Today)'
+					'🎥 [Visuals: A chaotic newsroom, a PR professional typing furiously on a laptop, a phone ringing off the hook.]',
+					'🎙️ Voiceover: "Think PR is just press releases? Just event invites? Just media placements? Think again."',
+					'💥 Cut to a PR pro in a boardroom, strategizing with executives.'
 				]
 			},
 			{
-				title: 'Video Content Breakdown',
+				title: 'Act 1: The Invisible Power of PR',
 				points: [
-					'🎞️ Opening Scene: The PR Myth vs. Reality - Challenging traditional PR perceptions',
-					'🔍 Act 1: The Invisible Power of PR - Showcasing crisis management and strategic influence',
-					'🔥 Act 2: The Shifting Media Terrain - Illustrating the evolving digital landscape',
-					'Act 3: PR 2.0 – Strategic, Proactive, Future-Focused - Demonstrating modern PR capabilities',
-					"Closing: The PR Pros of Tomorrow - Emphasizing PR's role in business strategy"
+					'🎥 [Fast cuts: Social media backlash, a CEO under pressure, a viral controversy.]',
+					'🎙️ Voiceover: "When a crisis hits, who steps in? When a brand\'s reputation is at stake, who builds trust? When the competition dominates, who crafts the narrative?"',
+					'⚡ [Graphics: ‘PR = The Architect of Influence’]'
 				]
 			},
 			{
-				title: 'Campaign Amplification',
+				title: 'Act 2: The Shifting Media Terrain',
 				points: [
-					'Earned Media: Strategic media interactions, exclusive interviews, and roundtables',
-					'Thought Leadership: Multi-part byline series across top-tier publications',
-					'Podcasts and Webinars: Industry expert discussions on PR evolution',
-					'Paid Media: Targeted advertising across LinkedIn, Instagram, and Twitter/X',
-					'Owned Media: Blog series, PR insights hub, and social media community'
+					'🎥 [Visuals: A rapidly changing digital landscape, with social media platforms, AI tools, and digital dashboards appearing and disappearing in a fast sequence.]',
+					'🎙️ Voiceover: "The world of media is evolving. Algorithms shift. News cycles shorten. And the way people consume content? It\'s completely different."',
+					'💥 Cut to a team of PR pros navigating multiple devices, responding to a viral tweet, and adjusting a media strategy.',
+					'[Split-screen: PR professionals working on storytelling, crisis management, data analytics, and influencer collaborations.]',
+					'Headlines flash: "Adapting to Change," "Transforming Brand Conversations," "Influencing the New Generation of Media."'
+				]
+			},
+			{
+				title: 'Act 3: PR 2.0 – Strategic, Proactive, Future-Focused',
+				points: [
+					'🎥 [PR pro analyzing market trends, collaborating with influencers, and leading crisis management in real time.]',
+					"🎙️ Voiceover: \"The future of PR isn't just about media relations; it's about reputation, trust, and long-term relationship building. This now extends to emerging channels like influencer podcasts, social media communities, branded newsletters, AI-driven content distribution, interactive webinars, and data-driven strategies using first-party insights and predictive analytics. Whether it's AI-driven personalization or influencing with data, PR pros are leading the way.\"",
+					"⚡ [Graphics: 'Strategic Storytelling', 'Crisis Management', 'Proactive Influence', 'Data-Driven Reputation']"
+				]
+			},
+			{
+				title: 'Closing: The PR Pros of Tomorrow',
+				points: [
+					'🎥 [PR professionals in action, collaborating and leading discussions with cross-industry clients, illustrating how PR powers business strategy.]',
+					'🎙️ Voiceover: "PR isn\'t just about coverage. It\'s about influence, strategy, and shaping the future. PR pros are navigating the evolving media landscape, driving business growth in every sector."',
+					"🚀 [End Screen: '#PR2Point0 | Navigating Change, Shaping Futures']"
 				]
 			}
 		],
