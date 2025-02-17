@@ -60,10 +60,6 @@
                                 text: "Akanksha played a crucial role in shaping L&T Semiconductors' media presence right from our debut. With a deep understanding of the industry and strong media relationships, she ensured our narrative resonated across top-tier publications, positioning us as a leader from day one. At Semicon India 2024, her end-to-end support was invaluable—every detail, from media coordination to strategic storytelling, was executed flawlessly.  What truly stood out was her commitment to going beyond the expected. She didn't just focus on Indian publications; she made sure LTSCT had a global presence, securing international media interactions and even arranging key influencer engagements, like our discussion with Keith Bryant from SMTA Europe. Her dedication, foresight, and ability to turn vision into impactful media moments have been instrumental in building LTSCT's reputation in the semiconductor space.",
                                 author: 'Dipu Jojo, Head of Marketing and Communications, L&T Semiconductor Technologies Ltd'
                             },
-                            {
-                                text: 'Akanksha has been instrumental driving factual, impactful storytelling for Intel in the Indian market while seamlessly aligning with our global narrative. Managing media for a brand of Intel\'s scale is challenging, but her strategic approach and strong relationships ensure positive, impactful coverage—even under tight deadlines and during challenging circumstances, ensuring quick turnarounds and meaningful coverage.  Her event support is seamless, from media interactions to flawless execution. What truly sets her apart is her deep curiosity—she doesn\'t just tell our story; she understands it, creating narratives that resonate beyond surface-level reporting and truly resonate with stakeholders. With Akanksha and team on board, we know our brand is in capable hands.  ',
-                                author: 'Satya Prakash Singh – Head & Director, Site Communications, APJ, Intel Corporation'
-                            }
                         ]
                     }
                 }

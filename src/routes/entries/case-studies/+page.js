@@ -15,13 +15,6 @@ export function load() {
 					"Highlight the need for and importance of real time data platform as part of a business's digital transformation journey",
 				Execution: [
 					{
-						title: 'Media Target',
-						points: [
-							'Mainlines to spread brand awareness',
-							'Tech Trade Publications to drive customer awareness'
-						]
-					},
-					{
 						title: 'Build Awareness',
 						points: [
 							'Proactive and reactive interviews, and introductory meetings helped media outlets to get acquainted',

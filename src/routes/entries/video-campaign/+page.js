@@ -3,9 +3,8 @@ export function load() {
 		title: "PR 2.0 – The Power You Don't See",
 		description: 'An innovative video campaign showcasing the evolution and impact of modern PR.',
 		Objective: [
-			'🔹 Format: Short-Form Video (90 seconds)',
-			'🔹 Style: Fast-paced, cinematic storytelling with dynamic visuals and a strong voiceover.',
-			'🔹 Platforms: Social Media: YouTube, LinkedIn, Instagram Reels; PR Community Forums: PRCAI, Reputation Today'
+			'The goal of this campaign is to show how PR professionals are adapting to the ever-changing media landscape and how this evolution benefits every sector—from tech to consumer to B2B.',
+			'Reposition PR as a strategic business function that goes beyond media coverage to drive influence, brand trust, and market leadership.'
 		],
 		Execution: [
 			{
@@ -30,8 +29,8 @@ export function load() {
 					'🎥 [Visuals: A rapidly changing digital landscape, with social media platforms, AI tools, and digital dashboards appearing and disappearing in a fast sequence.]',
 					'🎙️ Voiceover: "The world of media is evolving. Algorithms shift. News cycles shorten. And the way people consume content? It\'s completely different."',
 					'💥 Cut to a team of PR pros navigating multiple devices, responding to a viral tweet, and adjusting a media strategy.',
-					'[Split-screen: PR professionals working on storytelling, crisis management, data analytics, and influencer collaborations.]',
-					'Headlines flash: "Adapting to Change," "Transforming Brand Conversations," "Influencing the New Generation of Media."'
+					'🎞️[Split-screen: PR professionals working on storytelling, crisis management, data analytics, and influencer collaborations.]',
+					'🗞️Headlines flash: "Adapting to Change," "Transforming Brand Conversations," "Influencing the New Generation of Media."'
 				]
 			},
 			{
