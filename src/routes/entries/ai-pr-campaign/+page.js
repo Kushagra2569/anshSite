@@ -3,8 +3,6 @@ export function load() {
 		title: 'AI x PR: Smarter Strategies, Bigger Impact',
 		description:
 			'A comprehensive campaign showcasing how AI can revolutionize PR strategies and enhance campaign effectiveness.',
-		Objective:
-			"Showcase AI's role in streamlining PR efforts, from media monitoring to predictive analytics. Highlight how AI-driven personalization enhances audience targeting and engagement. Demonstrate real-world applications of AI in PR through case studies and expert insights. Position AI not as a replacement but as an enabler for smarter, data-driven PR decisions.",
 		strategy:
 			'Create a dynamic video + interactive social media series showcasing how AI is transforming PR, featuring real-world scenarios, expert insights, and futuristic storytelling.',
 		Execution: [
