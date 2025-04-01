@@ -37,7 +37,7 @@
                     <div class="flex-1 max-w-full lg:max-w-[65%] xl:max-w-[70%]">
                         <p class="text-center lg:text-left text-sm sm:text-base lg:text-sm xl:text-base text-secondary leading-relaxed">
                             Blending corporate PR with creative content, I craft emotionally intelligent stories that resonate. From crisis management at Microsoft to imaginative consumer campaigns for ITC, I drive impactful narratives. Whether launching brands like L&T Semiconductor technologies, and Niqo Robotics or sustaining momentum for Intel and Aerospike, I tailor strategies for success. With deep industry understanding and result-driven execution, I elevate brands through PR, content, and strategic communications.
-                            Alongside my full-time role, I also pursue a thriving freelance career in content writing, helping brands in crafting compelling stories and strategic campaigns.
+                            Alongside my full-time role, I also pursue a thriving freelance career in content writing, helping brands craft compelling stories and strategic campaigns.
                         </p>
                     </div>
                 </div>
