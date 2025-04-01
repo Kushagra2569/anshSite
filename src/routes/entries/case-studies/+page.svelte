@@ -170,7 +170,7 @@
                                             <li class="mt-6">
                                                 <img src={Shritama} alt={Shritama} class="w-24 h-24 rounded-full">
                                                 <h4 class=" font-bold text-accent mb-2">Shritama Saha, Associate Tech Journalist, Analytics India Magazine</h4>
-                                                <p><i>Connecting with Srini to understand more about Aerospike was definitely interesting. The way he presented his responses and explained about the company's offerings made the story one of our most popular read. I will sure be keeping a tab on what the company does next</i></p>
+                                                <p><i>Connecting with Srini to understand more about Aerospike was definitely interesting. The way he presented his responses and explained about the company's offerings made the story one of our most popular read. I will sure be keeping a tab on what the company does next.</i></p>
                                             </li>
                                         </ul>
                                         </div>
