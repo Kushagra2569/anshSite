@@ -27,19 +27,13 @@
         expandedCard = expandedCard === index ? null : index;
         
         if (expandedCard !== null) {
-            setTimeout(() => {
-                event.target.closest('.card').scrollIntoView({ 
-                    behavior: 'smooth',
-                    block: 'center'
-                });
-            }, 100);
         } else if (wasExpanded) {
             setTimeout(() => {
                 window.scrollTo({ 
                     top: 0,
                     behavior: 'smooth'
                 });
-            }, 100);
+            }, 200);
         }
     }
 </script>
@@ -61,7 +55,7 @@
                       <!-- Aerospike Case Study -->
                     {#if expandedCard === null || expandedCard === 0}
                 <Card
-                    sizeClass={expandedCard === 0 ? 'md:col-span-2' : 'min-h-[18rem] md:min-h-[16rem] '}
+                    sizeClass={expandedCard === 0 ? 'md:col-span-2' : 'hover:scale-105 min-h-[18rem] md:min-h-[16rem] '}
                     clickable={true}
                     onClick={(e) => toggleCard(0, e)}
                 >
@@ -164,7 +158,7 @@
                                         <ul class="list-decimal list-inside mb-6">
                                             <li><b>Awards</b></li>
                                             <h3 class="text-accent mb-3 ml-6">Fulcrum 2023 – Bronze in Best Use of Media </h3>
-                                            <img src={award} alt={award} class="w-3/5 h-2/5 rounded-md mb-6 ml-6">
+                                            <img src={award} alt={award} class="w-2/5 h-2/6 rounded-md mb-6 ml-6">
                                             <li class=""><b>Media Feedback</b></li>
                                         </ul>
                                         <ul class="list-none list-inside ml-6 mt-2">

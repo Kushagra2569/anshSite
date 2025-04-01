@@ -14,7 +14,7 @@
     <section class="w-full pt-16 px-4">
         <div class="container mx-auto">
             <div class="w-full md:w-5/6 lg:w-4/6 mx-auto">
-                <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-secondary leading-tight">
+                <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-secondary leading-tight text-center">
                     {titleText}
                 </h1>
             </div>
@@ -36,8 +36,8 @@
                     </div>
                     <div class="flex-1 max-w-full lg:max-w-[65%] xl:max-w-[70%]">
                         <p class="text-center lg:text-left text-sm sm:text-base lg:text-sm xl:text-base text-secondary leading-relaxed">
-                            Blending corporate PR with creative content, I craft emotionally intelligent stories that resonate. From crisis management at Microsoft to imaginative consumer campaigns for ITC, I drive impactful narratives. Whether launching brands like L&T Semiconductors Niqo Robotics or sustaining momentum for Intel and Aerospike, I tailor strategies for success. With deep industry understanding and result-driven execution, I elevate brands through PR, content, and strategic communications.
-                            Alongside my full-time roles, I also pursue a thriving freelance career, helping brands in these sectors craft compelling stories and strategic campaigns.
+                            Blending corporate PR with creative content, I craft emotionally intelligent stories that resonate. From crisis management at Microsoft to imaginative consumer campaigns for ITC, I drive impactful narratives. Whether launching brands like L&T Semiconductor technologies, and Niqo Robotics or sustaining momentum for Intel and Aerospike, I tailor strategies for success. With deep industry understanding and result-driven execution, I elevate brands through PR, content, and strategic communications.
+                            Alongside my full-time role, I also pursue a thriving freelance career in content writing, helping brands in crafting compelling stories and strategic campaigns.
                         </p>
                     </div>
                 </div>
